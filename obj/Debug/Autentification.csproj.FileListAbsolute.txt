@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\i-workspace\c#\Autentification\Autentification\bin\Debug\Autentification.exe.config
+\\Mac\Home\Documents\i-workspace\c#\Autentification\Autentification\bin\Debug\Autentification.exe
+\\Mac\Home\Documents\i-workspace\c#\Autentification\Autentification\bin\Debug\Autentification.pdb
+\\Mac\Home\Documents\i-workspace\c#\Autentification\Autentification\obj\Debug\Autentification.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\i-workspace\c#\Autentification\Autentification\obj\Debug\Autentification.Properties.Resources.resources
+\\Mac\Home\Documents\i-workspace\c#\Autentification\Autentification\obj\Debug\Autentification.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\i-workspace\c#\Autentification\Autentification\obj\Debug\Autentification.exe
+\\Mac\Home\Documents\i-workspace\c#\Autentification\Autentification\obj\Debug\Autentification.pdb
+\\Mac\Home\Documents\i-workspace\c#\Autentification\Autentification\obj\Debug\Autentification.Form.resources
