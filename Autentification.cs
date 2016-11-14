@@ -51,7 +51,7 @@ namespace Autentification
         {
             VALID,
             EMPTY_USERNAME,
-            DOT_COMMA_USERNAME,
+            CHARACTERS_NOT_VALID_USERNAME,
             EMPTY_PASSWORD,
             EMPTY_REPASSWORD,
             PASSWORDS_MISMATCH,
@@ -86,9 +86,9 @@ namespace Autentification
             {
                 return RegisterReturns.EMPTY_USERNAME;
             }
-            if (username.Contains(';'))
+            if (username.Contains(';') || username.Contains(' '))
             {
-                return RegisterReturns.DOT_COMMA_USERNAME;
+                return RegisterReturns.CHARACTERS_NOT_VALID_USERNAME;
             }
             if (password.Length == 0)
             {

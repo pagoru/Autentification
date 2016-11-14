@@ -71,8 +71,8 @@ namespace Autentification
                     messageBoxText = "El camp de l'usuari esta buit.";
                     txt_Register_Username.Focus();
                     break;
-                case RegisterReturns.DOT_COMMA_USERNAME:
-                    messageBoxText = "El camp de l'usuari no pot contenir el carácter ';'.";
+                case RegisterReturns.CHARACTERS_NOT_VALID_USERNAME:
+                    messageBoxText = "El camp de l'usuari no pot contenir caracters especials.";
                     txt_Register_Username.Focus();
                     break;
                 case RegisterReturns.EMPTY_PASSWORD:
